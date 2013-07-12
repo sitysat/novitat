@@ -1,0 +1,14 @@
+########################################
+#   git command
+Initialize git
+$git init 
+Add all to git
+$git add .
+Commit all change
+$git commit
+Link to github
+$git remote add origin https://github.com/sitysat/novitat.git
+Push origin
+git push -u origin master
+Pull from git hub
+git pull
